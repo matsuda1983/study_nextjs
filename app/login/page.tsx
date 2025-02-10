@@ -14,6 +14,12 @@ export default function LoginPage() {
         <Suspense>
           <LoginForm />
         </Suspense>
+        <p>
+          id : user@nextmail.com
+        </p>
+        <p>
+          pass : 123456
+        </p>
       </div>
     </main>
   );
